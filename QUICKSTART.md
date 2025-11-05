@@ -67,9 +67,10 @@ python main.py
 - Export your history to CSV
 - See summary statistics
 
-### Leaderboard
-- Top 10 scores across all users
-- Compare your performance with others
+   Leaderboard
+- Displays the Top 10 highest scores from all users.
+- Encourages healthy competition among learners.
+- Helps you compare your performance with others and stay motivated.
 
 ### Profile
 - View personal statistics
